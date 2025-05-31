@@ -13,8 +13,8 @@ To write a python program to check whether Hamiltonian path exits in the given g
 ## Program:
 ```
 Program to implement to check whether Hamiltonian path exits in the given graph.
-Developed by: Saravanan PV
-Register Number: 212223230195
+Developed by: Karthick Raja K
+Register Number: 212223240066
 ```
 ```python
 def isSafe(v, pos, path, adj):
